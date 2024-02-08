@@ -2476,7 +2476,7 @@ spawn(function()
 end)
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Tr&Hub", HidePremium = false, IntroText = "Tr&Hub", SaveConfig = true, ConfigFolder = "Tr&Hub"})
+local Window = OrionLib:MakeWindow({Name = "Tr & Hub", HidePremium = false, IntroText = "Tr & Hub", SaveConfig = true, ConfigFolder = "Tr & Hub"})
 ----------Tab-----------------------
 local W = Window:MakeTab({
     Name = "Info",
